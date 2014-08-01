@@ -1,1 +1,129 @@
-{}
+{
+    "donnees_didentification": {
+        "identification_du_centre": {},
+        "sexe": {
+            "selectedChoice": "Man"
+        },
+        "district": {
+            "selectedChoice": "Diksmuide"
+        },
+        "decede": {
+            "selectedChoice": "Non"
+        },
+        "date_de_naissance": "Tue Aug 12 2014 00:00:00 GMT+0200 (CEST)",
+        "niss": "1987102100322",
+        "nom": "Doe",
+        "prenom": "John"
+    },
+    "donnees_medicales": {
+        "diagnostic": {
+            "classification_bnmdrcramp": {
+                "diagnostic_cramp_diagnostic_1": {},
+                "diagnostic_cramp_diagnostic_2": {},
+                "diagnostic_cramp_diagnostic_3": {},
+                "diagnostic_cramp_diagnostic_4": {},
+                "diagnostic_cramp_diagnostic_5": {},
+                "diagnostic_cramp_diagnostic_6": {},
+                "diagnostic_cramp_diagnostic_7": {},
+                "diagnostic_cramp_diagnostic_8": {}
+            },
+            "classification_inami": {
+                "selectedChoice": "Dystrophinopathies"
+            },
+            "stade_de_maladie": {},
+            "diagnostic_definitive": {
+                "date_de_diagnostic_definitive": "Wed Oct 16 2013 00:00:00 GMT+0200 (CEST)",
+                "selectedChoice": "Oui"
+            },
+            "en_convention": {
+                "selectedChoice": "Non"
+            }
+        },
+        "activlim": {
+            "lordre_du_questionnaire": {},
+            "langue": {},
+            "quelle_est_la_difficulte_des_activites_suivantes": {
+                "mettre_un_t_shirt": {},
+                "se_laver_le_haut_du_corps_": {},
+                "habiller_le_bas_du_corps": {},
+                "prendre_une_douche": {},
+                "sasseoir_sur_les_toilettes": {},
+                "prendre_un_bain": {},
+                "descendre_les_escaliers": {},
+                "sortir_de_la_baignoire": {},
+                "ouvrir_une_porte": {},
+                "marcher_a_lexterieur_sur_sol_plat": {},
+                "se_laver_la_figure": {},
+                "pendre_une_veste_a_un_porte_manteau": {},
+                "sessuyer_le_haut_du_corps": {},
+                "monter_les_escaliers": {},
+                "questions_specifiques_pour_adultes_1680_ans": {
+                    "porter_une_charge_lourde": {},
+                    "rentrer_dans_une_voiture": {},
+                    "rester_debout_longtemps__10_min": {},
+                    "marcher_plus_dun_km": {}
+                },
+                "questions_specifiques_pour_enfants_615_ans": {
+                    "fermer_une_porte": {},
+                    "sauter_a_cloche_pied": {},
+                    "mettre_un_sac_a_dos_": {},
+                    "courir_": {}
+                }
+            }
+        },
+        "treatnmd": {
+            "dmd_or_sma": {
+                "mutation_has_been_validated_by": {},
+                "clinical_data_has_been_validated_by": {},
+                "molecular_data": {
+                    "deletion_all_exons_tested": {},
+                    "duplication_all_exons_tested": {},
+                    "deletionduplication_boundaries_known": {},
+                    "point_mutation_all_exons_sequenced": {},
+                    "targeted_mutation_testing_in_this_patient_but_testing_of_all_exons_in_an_affected_male_relative_index_patient": {}
+                },
+                "diagnosis": {
+                    "diagnosis_dmd": {},
+                    "diagnosis_sma": {},
+                    "sma_classificationeee": {}
+                },
+                "motor_function": {
+                    "currently_able_to_walk": {},
+                    "wheelchair_use_answer_if_over_3_years_of_age": {},
+                    "currently_able_to_sit_without_support": {},
+                    "best_motor_function_achieved": {}
+                },
+                "steroids": {
+                    "current_steroid_therapy": {}
+                },
+                "scoliosis_surgery": {
+                    "scoliosis_surgery": {}
+                },
+                "heart": {
+                    "current_cardiac_medication": {},
+                    "heart_failurecardiomyopathy": {},
+                    "was_this_measured_by_scintigraphy": {}
+                },
+                "clinical_trials": {
+                    "currently_included_in_a_clinical_trial": {}
+                },
+                "respiratory_function": {
+                    "noninvasive_ventilation": {},
+                    "invasive_ventilation": {}
+                },
+                "muscle_biopsy": {
+                    "previous_muscle_biopsy": {}
+                },
+                "other_registries": {
+                    "signed_up_for_other_registries": {}
+                },
+                "family_history": {
+                    "other_affected_family_members": {}
+                },
+                "feeding": {
+                    "gastricnasal_tube": {}
+                }
+            }
+        }
+    }
+}
